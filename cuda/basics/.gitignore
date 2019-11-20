@@ -1,0 +1,4 @@
+bin/*
+build/*
+dependencies/pybind*
+*.ipynb_checkpoints*
